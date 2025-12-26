@@ -1,0 +1,36 @@
+
+Gurobi 11.0.3 (win64) logging started Thu May  8 00:09:47 2025
+
+Set parameter LogFile to value "run_logs\instance1_20250508_000947.log"
+Set parameter TimeLimit to value 3600
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (win64 - Windows 11+.0 (26100.2))
+
+CPU model: AMD Ryzen 7 6800H with Radeon Graphics, instruction set [SSE2|AVX|AVX2]
+Thread count: 8 physical cores, 16 logical processors, using up to 16 threads
+
+Optimize a model with 76548 rows, 42060 columns and 175128 nonzeros
+Model fingerprint: 0x2d99784e
+Variable types: 31464 continuous, 10596 integer (10596 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [5e+01, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds (0.01 work units)
+Thread count was 1 (of 16 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (win64 - Windows 11+.0 (26100.2))
+
+CPU model: AMD Ryzen 7 6800H with Radeon Graphics, instruction set [SSE2|AVX|AVX2]
+Thread count: 8 physical cores, 16 logical processors, using up to 16 threads
+
+
+IIS computed: 1 constraints, 0 bounds
+IIS runtime: 0.00 seconds (0.00 work units)
